@@ -23,7 +23,7 @@
 
 <!-- <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/> -->
 
-Hi! I'm CCherry07! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of 🔨 [@Cdesign](https://github.com/CCherry07/Cdesign)
+Hi! I'm CCherry07! I am **a fan of the <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> React technology stack and a code perfectionist**, core team of 🔨 [@Cdesign](https://github.com/CCherry07/Cdesign)
 
 I love myself, love the world, and always love my family. I hope I can become a FED ( Front-End Developer ｜ 前端开发工程师) oneday.
 
