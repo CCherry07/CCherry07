@@ -32,7 +32,6 @@ I love myself, love the world, and always love my family. I hope I can become a 
 - 🤔 I’m looking for help with 🥚 React code design.
 - 📫 How to reach me: email: c_chenjunguang@163.com
 - ⚡ Fun fact: Like watch anime.
-- 🎵 I am currently focusing on the combination of 🇨🇳 Chinese style music and 💡 modern electronic music, and 🎹 piano music in the Baroque period.
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=CCherry07">
