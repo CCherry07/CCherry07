@@ -106,7 +106,7 @@ opensource_dashboard:gs -->
 </a>
 
 
-<a href="https://github.com/CCherry07#gh-light-mode-only">
+<a href="https://github.com/CCherry07#gh-dark-mode-only">
   
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
