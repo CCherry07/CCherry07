@@ -1,4 +1,4 @@
-<h1> CCherry07 👨‍💻 &nbsp;&nbsp; ( &nbsp;
+<h1> Cherry7 👨‍💻 &nbsp;&nbsp; ( &nbsp;
 <a href="mailto:CCherry07@qq.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>
