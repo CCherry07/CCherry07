@@ -121,7 +121,7 @@ opensource_dashboard:gs -->
 </a>
 
 
-<a href="https://github.com/#gh-dark-mode-only">
+<a href="https://github.com/CCherry07#gh-light-mode-only">
   
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
