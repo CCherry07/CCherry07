@@ -56,8 +56,8 @@ I love myself, love the world, and always love my family. I hope I can become a 
 
 **Stacks**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,nuxtjs&theme=dark)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,tailwind,vite,webpack,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs&theme=dark)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,nodejs,tailwind,vite,webpack,vscode&theme=dark)](https://skillicons.dev)
 
 <!-- **我的开源项目** -->
 
