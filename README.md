@@ -5,7 +5,7 @@
 &nbsp; )
 </h1>
 
-> <u>*I am now a trainee front-end development engineer.*</u>
+> <u>*目前想找一个暑期实习工作*</u>
 
 <details>
   <summary>
