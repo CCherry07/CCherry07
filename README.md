@@ -27,7 +27,7 @@ Hi! 👋 I'm CCherry07! I am **a fan of the <img alt="React" src="https://img.sh
 
 I love myself, love the world, and always love my family. I hope I can become a FED ( Front-End Developer ｜ 前端开发工程师) oneday.
 
-- 🔭 I’m currently working on React component framework [@vueComponent](https://github.com/vueComponent)
+- 🔭 I’m currently working on Vue component framework [@vueComponent](https://github.com/vueComponent)
 - 🌱 I’m currently learning 🧵 web design, and so on.
 - 🤔 I’m looking for help with 🥚 React code design.
 - 📫 How to reach me: email: c_chenjunguang@163.com
