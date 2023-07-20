@@ -35,7 +35,7 @@ I love myself, love the world, and always love my family. I hope I can become a 
 
 <p>
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=CCherry07"> -->
-<a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
+<a href="https://wakatime.com/@0c50d894-03d0-4921-bee1-2f6b13028e62"><img src="https://wakatime.com/badge/user/0c50d894-03d0-4921-bee1-2f6b13028e62.svg" alt="Total time coded since May 14 2022" /></a>
 </p>
 
 ---
