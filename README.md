@@ -5,7 +5,7 @@
 &nbsp; )
 </h1>
 
-> <u>*目前想找一个暑期实习工作*</u>
+> <u>*秋招ing*</u>
 
 <details>
   <summary>
