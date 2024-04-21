@@ -25,7 +25,7 @@
 
 Hi! 👋 I'm CCherry07! I am **a fan of the <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> React technology stack and a code perfectionist**, core team of 🔨 [@vueComponent](https://github.com/vueComponent) [@Farm](https://github.com/farm-fe/farm)
 
-I love myself, love the world, and always love my family. I hope I can become a FED ( Front-End Developer ｜ 前端开发工程师) oneday.
+I love myself, love the world, and always love my family. I hope I can become a Front-End Developer oneday.
 
 - 🔭 I’m currently working on Vue component framework [@vueComponent](https://github.com/vueComponent)
 - 🌱 I’m currently learning 🧵 web design, and so on.
