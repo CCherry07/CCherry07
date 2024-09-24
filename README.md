@@ -1,25 +1,9 @@
 <h1> Cherry7 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:CCherry07@qq.com" align="center">
+<a href="mailto:c_chenjunguang@163.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>
 &nbsp; )
 </h1>
-
-> <u>*In learning*</u>
-
-<details>
-  <summary>
-    Oops...
-  </summary>
-  
-  <br>
-
-> The environment is becoming increasingly harsh, and I may not be able to access `*.github.com` at any time. If I suddenly have no commits, it is likely that I will no longer be able to access it.
-  
-<br>
-<hr>
-
-</details>
 
 <!-- <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/> -->
 
@@ -32,11 +16,6 @@ I love myself, love the world, and always love my family. I hope I can become a 
 - 🤔 I’m looking for help with 🥚 React code design.
 - 📫 How to reach me: email: c_chenjunguang@163.com
 - ⚡ Fun fact: Like watch anime.
-
-<p>
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=CCherry07"> -->
-<a href="https://wakatime.com/@0c50d894-03d0-4921-bee1-2f6b13028e62"><img src="https://wakatime.com/badge/user/0c50d894-03d0-4921-bee1-2f6b13028e62.svg" alt="Total time coded since May 14 2022" /></a>
-</p>
 
 ---
 
