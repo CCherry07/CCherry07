@@ -9,8 +9,6 @@
 
 Hi! 👋 I'm CCherry07! core team of 🔨 [@vueComponent](https://github.com/vueComponent) [@Farm](https://github.com/farm-fe/farm)
 
-- 🔭 I’m currently working on Vue component framework [@vueComponent](https://github.com/vueComponent)
-- 🌱 I’m currently learning 🧵 web design, and so on.
 - 📫 How to reach me: email: c_chenjunguang@163.com
 
 ---
